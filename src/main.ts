@@ -25,7 +25,7 @@ function noSearchDefaultPageRender() {
         •
         <a href="https://x.com/theo" target="_blank">theo</a>
         •
-        <a href="https://github.com/t3dotgg/unduck" target="_blank">github</a>
+        <a href="https://github.com/maimunar/unduck" target="_blank">github</a>
       </footer>
     </div>
   `;
